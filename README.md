@@ -1,4 +1,4 @@
 # skycoffee
 【入門編】カフェサイトのコーディング練習
-デザインカンプ
-https://webdesigner-go.com/coding-practice/easy/
+こちらのサイトのデザインカンプを元に作成させていただきました。
+https://webdesigner-go.com/coding-practice/
